@@ -1,0 +1,21 @@
+.container{
+    border: 1px solid white;
+}
+.row{
+    width: 1200px;
+   margin: 100px;
+}
+.block{
+    position: relative;
+    left: 350px;
+    bottom: 40px;
+}
+.man{
+    border: 1px solid #002752;
+    width: 630px;
+    background-color: #002752;
+    color: white;
+}
+h3{
+    margin: 10px;
+}
